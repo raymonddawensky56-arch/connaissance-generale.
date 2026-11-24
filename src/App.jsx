@@ -237,9 +237,7 @@ const INITIAL_QUESTIONS = {
       options: ["Excalibur", "Gungnir", "Mjöllnir", "Gram"],
       answer: 2,
       explanation: "Mjöllnir est le marteau légendaire de Thor capable de foudroyer et de revenir dans sa main.",
-    },
-    {
-      import React, { useState, useEffect, useMemo } from "react";
+    }]
 import {
   BookOpen,
   Shuffle,
