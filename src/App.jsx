@@ -237,32 +237,7 @@ const INITIAL_QUESTIONS = {
       options: ["Excalibur", "Gungnir", "Mjöllnir", "Gram"],
       answer: 2,
       explanation: "Mjöllnir est le marteau légendaire de Thor capable de foudroyer et de revenir dans sa main.",
-    }]
-import {
-  BookOpen,
-  Shuffle,
-  Star,
-  BarChart3,
-  Settings,
-  Play,
-  CheckCircle2,
-  XCircle,
-  ArrowLeft,
-  ArrowRight,
-  RotateCcw,
-  Sun,
-  Moon,
-  Volume2,
-  VolumeX,
-  Upload,
-  Award,
-  Layers,
-  Sparkles,
-  Trash2,
-  Search,
-  ChevronRight,
-  Flag,
-} from "lucide-react";
+    }];
 
 const CATEGORIES = [
   {
